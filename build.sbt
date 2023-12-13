@@ -74,6 +74,7 @@ lazy val root = project
     generic.jvm,
     calico,
     swing,
+    docs,
     examples.js,
     examples.jvm
   )
